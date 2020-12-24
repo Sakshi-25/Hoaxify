@@ -21,7 +21,7 @@ News.csv : A full trained dataset on following attributes-
 
 ### Modelling
 
-I fit 4 models to the training set, with testing accuracy of the models being:
+I have fit 4 models to the training set, with testing accuracy of the models being:
 
 - Logistic Regression (91.16%)
 - Naive Bayes (82.32%)
